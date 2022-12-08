@@ -1,9 +1,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/fiskce">
+<a href="https://twitter.com/peniel_cgh">
   <img align="left" alt="Fiskce | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/fisk/">
+<a href="https://www.linkedin.com/in/peniel-nyinaku-39a242173/">
   <img align="left" alt="Fiskces's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
