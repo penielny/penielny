@@ -1,10 +1,10 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/peniel_cgh">
-  <img align="left" alt="Fiskce | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="peniel | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1024px-Logo_of_Twitter.svg.png?20220821125553" />
 </a>
 <a href="https://www.linkedin.com/in/peniel-nyinaku-39a242173/">
-  <img align="left" alt="Fiskces's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Fiskces's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
 </a>
 
 
@@ -13,7 +13,7 @@
 
 <br />
 
-Hi, I'm [Peniel!](https://fiskce.live/), a passionate semi-self-taught Full Stack Web Developer 🚀 from Ghana.
+Hi, I'm [Peniel!](https://www.linkedin.com/in/peniel-nyinaku-39a242173/), a passionate semi-self-taught Full Stack Web Developer 🚀 from Ghana.
 
 
   
