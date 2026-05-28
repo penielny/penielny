@@ -64,8 +64,8 @@ I'm a **Full Stack Developer** based in **Tema, Ghana** 🇬🇭 with a passion 
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=penielny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=penielny&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=penielny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=penielny&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
@@ -78,11 +78,11 @@ I'm a **Full Stack Developer** based in **Tema, Ghana** 🇬🇭 with a passion 
 
 <div align="center">
 
-[![Selenia](https://github-readme-stats.vercel.app/api/pin/?username=penielny&repo=Selenia&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/penielny/Selenia)
-[![Job-Flow](https://github-readme-stats.vercel.app/api/pin/?username=penielny&repo=Job-Flow&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/penielny/Job-Flow)
+[![Selenia](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=penielny&repo=Selenia&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/penielny/Selenia)
+[![Job-Flow](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=penielny&repo=Job-Flow&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/penielny/Job-Flow)
 
-[![PopChill](https://github-readme-stats.vercel.app/api/pin/?username=penielny&repo=PopChill&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/penielny/PopChill)
-[![Music-Player](https://github-readme-stats.vercel.app/api/pin/?username=penielny&repo=Music-Player&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/penielny/Music-Player)
+[![PopChill](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=penielny&repo=PopChill&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/penielny/PopChill)
+[![Music-Player](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=penielny&repo=Music-Player&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/penielny/Music-Player)
 
 </div>
 
